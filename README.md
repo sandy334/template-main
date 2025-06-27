@@ -36,21 +36,7 @@ nova-space/
 
 ---
 
-## 📸 Screenshots
 
-### 🔹 Hero Section
-![Hero Section](./assets/screenshots/screenshot-hero.png)
-
-### 🔹 Why Choose Us
-![Why Choose Us](./assets/screenshots/screenshot-why-choose.png)
-
-### 🔹 About & Mission
-![About](./assets/screenshots/screenshot-about.png)
-
-### 🔹 Key Achievements & Blog
-![Achievements](./assets/screenshots/screenshot-achievements.png)
-
-> *(Add screenshots in `assets/screenshots/` folder for GitHub preview.)*
 
 ---
 
@@ -88,6 +74,4 @@ npm run dev
 
 ---
 
-## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
