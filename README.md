@@ -70,7 +70,7 @@ npm run dev
 ## 🧑‍💻 Author
 
 - **Sandesh H R**  
-  [GitHub](https://github.com/sandy334) • [LinkedIn](https://linkedin.com/in/sandeshhr)  
+  [GitHub](https://github.com/sandy334) 
 
 ---
 
