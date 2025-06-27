@@ -3,9 +3,6 @@
 
 **Nova Space** is a sleek, modern enterprise-level website that offers a stunning user experience with support for both light and dark modes. Designed for businesses and startups looking to transform their digital presence, it emphasizes performance, scalability, and responsiveness.
 
-![Nova Space Screenshot](./assets/screenshots/screenshot-hero.png)
-> *Transform Your Digital Experience*
-
 ---
 
 ## 🚀 Features
