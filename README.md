@@ -1,13 +1,96 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌌 Nova Space
 
-Currently, two official plugins are available:
+**Nova Space** is a sleek, modern enterprise-level website that offers a stunning user experience with support for both light and dark modes. Designed for businesses and startups looking to transform their digital presence, it emphasizes performance, scalability, and responsiveness.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Nova Space Screenshot](./assets/screenshots/screenshot-hero.png)
+> *Transform Your Digital Experience*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-.....
+## 🚀 Features
+
+- ⚡ **Dark and Light Mode** toggle for user comfort  
+- 🎯 Clean and intuitive **UI/UX design**
+- 🧩 Responsive layout for all screen sizes  
+- 📈 Sections including **About**, **Pricing**, **Products**, **Testimonials**, **Blog**
+- 🔐 Enterprise-focused content: **Security**, **Analytics**, **24/7 Support**
+- 💬 Client testimonials for trust and credibility  
+- 🛠 Built with modern front-end tech stack
+
+---
+
+## 📂 Folder Structure
+
+```
+nova-space/
+│
+├── public/
+│   └── index.html
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   └── App.jsx
+├── .gitignore
+├── package.json
+└── README.md
+```
+
+---
+
+## 📸 Screenshots
+
+### 🔹 Hero Section
+![Hero Section](./assets/screenshots/screenshot-hero.png)
+
+### 🔹 Why Choose Us
+![Why Choose Us](./assets/screenshots/screenshot-why-choose.png)
+
+### 🔹 About & Mission
+![About](./assets/screenshots/screenshot-about.png)
+
+### 🔹 Key Achievements & Blog
+![Achievements](./assets/screenshots/screenshot-achievements.png)
+
+> *(Add screenshots in `assets/screenshots/` folder for GitHub preview.)*
+
+---
+
+## 📦 Tech Stack
+
+- **React** (Vite)  
+- **Tailwind CSS**  
+- **React Icons**  
+- **Responsive Web Design**
+
+---
+
+## 💡 Setup Instructions
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/nova-space.git
+
+# Navigate to the project folder
+cd nova-space
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+```
+
+---
+
+## 🧑‍💻 Author
+
+- **Sandesh H R**  
+  [GitHub](https://github.com/sandy334) • [LinkedIn](https://linkedin.com/in/sandeshhr)  
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
